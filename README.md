@@ -12,7 +12,10 @@ Step 4 : You can start using PetClinicApp.
 What you can do ;
 
 Add owner's personal info and owners pet;
+
 Delete owners and pets with ıd;
+
 Find owners and pet with Id;
+
 Change pets information
 
