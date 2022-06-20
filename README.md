@@ -3,7 +3,7 @@ PetClinicApp
 
 Step 1 : Please download Docker Desktop.(https://www.docker.com/products/docker-desktop/)
 
-Step 2 : -First configure your compose file and app-properties (https://docs.docker.com/compose).
+Step 2 : Configure your compose file and app-properties (https://docs.docker.com/compose).
 
 Step 3 : Create your data source with using postgresql (Fill the blanks with docker compose informations and test connection.)
 
